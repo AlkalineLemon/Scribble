@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(18,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(19,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(21,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(22,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(175,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(175,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(182,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(182,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(182,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(182,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(194,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(195,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(195,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(196,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(197,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alkaline\source\repos\Scribble\Main.cpp(197,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Scribble.vcxproj -> C:\Users\Alkaline\source\repos\Scribble\x64\Debug\Scribble.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
